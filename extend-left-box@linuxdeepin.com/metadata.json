@@ -3,5 +3,5 @@
     "name": "Extend left box",
     "description": "Extend _leftBox of gnome-shell top panel",
     "shell-version": [ "3.36" ],
-    "url": "http://github.com/StephenPCG/extend-left-box"
+    "url": "http://github.com/MOZGIII/extend-left-box"
 }
